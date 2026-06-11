@@ -38,7 +38,7 @@ function Home() {
           <img
             src={IMG.hero}
             alt="Premium gym floor at Ascend Fitness Rajajinagar, Bengaluru"
-            className="h-full w-full object-cover object-center md:object-[0%_center]"
+            className="h-full w-full object-cover object-center md:object-[70%_center]"
             fetchPriority="high"
           />
           {/* Dark overlay — stronger on left for text legibility, fades right */}
